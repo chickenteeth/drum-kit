@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url(http://tny.im/j14) bottom center;
+  background: url(http://i.imgur.com/b9r5sEL.jpg)  center;
   background-size: cover;
 }
 
@@ -14,9 +14,9 @@ body,html {
   display: flex;
   flex-wrap: wrap;
   flex: 1;
-  height: 100vh;
+  height: 85vh;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .key {
